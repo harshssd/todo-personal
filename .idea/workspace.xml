@@ -70,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/config/database.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.1142132" vertical-offset="0" max-vertical-offset="394">
-              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -384,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/config/database.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1142132" vertical-offset="0" max-vertical-offset="394">
-          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="65" />
           <folding />
         </state>
       </provider>
