@@ -47,4 +47,18 @@ angular.module('todoController', [])
 					$scope.todos = data; // assign our new list of todos
 				});
 		};
+    
+    		// UPDATE ==================================================================
+		// update a todo after checking it
+		$scope.updateTodo = function(id) {
+			$scope.loading = true;
+
+			Todos.update(id)
+				// if successful updation, call our get function to get all the new todos
+				.success(function(data) {
+					$scope.loading = false;
+					$scope.todos = data; // assign our new list of todos
+				});
+		};
+    
 	});
